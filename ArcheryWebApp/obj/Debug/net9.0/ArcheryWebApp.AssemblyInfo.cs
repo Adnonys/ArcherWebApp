@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ArcheryWebApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d3a5d125f842cf6f21f62ea4a97c24ba491daabf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61d8619e965844bb54796b4bc7058f0b68044f17")]
 [assembly: System.Reflection.AssemblyProductAttribute("ArcheryWebApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ArcheryWebApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace ArcheryWebApp.Models
 {
-    [Table("ArcherTable1")]
+    [Table("ArcherTable")]
     public class Archer
     {
         [Key]

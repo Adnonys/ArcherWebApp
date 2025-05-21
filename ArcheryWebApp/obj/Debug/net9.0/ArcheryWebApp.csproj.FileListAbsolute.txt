@@ -360,3 +360,4 @@ E:\Swinburne\Semester 1 - 2025\COS20031 - Database Design Project\ArcherWebApp\A
 E:\Swinburne\Semester 1 - 2025\COS20031 - Database Design Project\ArcherWebApp\ArcheryWebApp\obj\Debug\net9.0\ArcheryWebApp.pdb
 E:\Swinburne\Semester 1 - 2025\COS20031 - Database Design Project\ArcherWebApp\ArcheryWebApp\obj\Debug\net9.0\ArcheryWebApp.genruntimeconfig.cache
 E:\Swinburne\Semester 1 - 2025\COS20031 - Database Design Project\ArcherWebApp\ArcheryWebApp\obj\Debug\net9.0\ref\ArcheryWebApp.dll
+E:\Swinburne\Semester 1 - 2025\COS20031 - Database Design Project\ArcherWebApp\ArcheryWebApp\obj\Debug\net9.0\ArcheryWebApp.sourcelink.json
