@@ -1,0 +1,14 @@
+@model ArcheryWebApp.Models.Archer
+@{
+    ViewData["Title"] = "Xóa Archer";
+}
+
+<h1>@ViewData["Title"]</h1>
+<p>Bạn có chắc muốn xóa Archer <strong>@Model.LastName @Model.FirstName</strong>?</p>
+
+<form asp-action="Delete" method="post">
+    @Html.AntiForgeryToken()
+    <input type="hidden" asp-for="ArcherID" />
+    <button type="submit" class="btn btn-danger">Xóa</button>
+    <a asp-action="Index" class="btn btn-secondary">Hủy</a>
+</form>

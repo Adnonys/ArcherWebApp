@@ -1,0 +1,25 @@
+@model ArcheryWebApp.Models.ScoreStaging
+@{
+    ViewData["Title"] = "Record Practice Score";
+}
+<form asp-action="Create" method="post" class="row g-3">
+    <div class="col-md-4">
+        <label>Round</label>
+        <select asp-for="RoundID" asp-items="ViewBag.Rounds" class="form-select"></select>
+    </div>
+    <div class="col-md-4">
+        <label>Equipment</label>
+        <select asp-for="EquipmentID" asp-items="ViewBag.Equipment" class="form-select"></select>
+    </div>
+    <div class="col-md-4">
+        <label>Date</label>
+        <input asp-for="Date" type="date" class="form-control" />
+    </div>
+    <div class="col-md-4">
+        <label>Time</label>
+        <input asp-for="Time" type="time" class="form-control" />
+    </div>
+    <div class="col-12">
+        <button type="submit" class="btn btn-success">Save</button>
+    </div>
+</form>

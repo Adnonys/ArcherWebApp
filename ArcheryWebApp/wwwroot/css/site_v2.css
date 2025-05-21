@@ -1,0 +1,98 @@
+/* Phong cách chung cho nút cuộn */
+.scroll-button {
+    position: fixed;
+    right: 15px; /* Giảm khoảng cách từ cạnh phải */
+    width: 40px; /* Giảm kích thước nút */
+    height: 40px; /* Giảm kích thước nút */
+    font-size: 20px; /* Giảm kích thước biểu tượng */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(135deg, #007bff, #0056b3); /* Gradient xanh dương */
+    color: #fff;
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.2);
+    opacity: 0;
+    visibility: hidden;
+    transition: all 0.3s ease;
+}
+
+/* Nút cuộn lên */
+.scroll-button.up {
+    bottom: 70px; /* Điều chỉnh vị trí nút cuộn lên */
+}
+
+/* Nút cuộn xuống */
+.scroll-button.down {
+    bottom: 15px; /* Điều chỉnh vị trí nút cuộn xuống */
+}
+
+/* Hiển thị nút khi được kích hoạt */
+.scroll-button.show {
+    opacity: 1;
+    visibility: visible;
+    transform: scale(1);
+}
+
+/* Hiệu ứng hover */
+.scroll-button:hover {
+    background: linear-gradient(135deg, #0056b3, #003f7f); /* Tông màu xanh đậm hơn khi hover */
+    box-shadow: 0 10px 15px rgba(0, 0, 0, 0.3);
+    transform: scale(1.1);
+}
+
+/* Biểu tượng nút */
+.scroll-button i {
+    font-family: "Font Awesome 5 Free", sans-serif; /* Thêm generic default */
+    font-weight: 900;
+    pointer-events: none;
+}
+
+.scroll-button.up i:before {
+    content: "\f062"; /* Mã biểu tượng mũi tên lên */
+}
+
+.scroll-button.down i:before {
+    content: "\f063"; /* Mã biểu tượng mũi tên xuống */
+}
+
+.loading-placeholder {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    border: 4px solid #ccc;
+    border-top: 4px solid #3498db;
+    border-radius: 50%;
+    animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+#lock-screen-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background: rgba(0, 0, 0, 0.9); /* Làm tối màn hình */
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    font-weight: bold;
+    z-index: 9999; /* Đảm bảo nằm trên tất cả */
+}
+
+.lock-screen-message {
+    padding: 20px;
+    background: rgba(0, 0, 0, 0.8);
+    border-radius: 10px;
+}
+
+

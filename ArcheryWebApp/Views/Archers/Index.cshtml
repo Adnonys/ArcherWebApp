@@ -1,0 +1,93 @@
+@model ArcheryWebApp.Models.ArcherListViewModel
+@{
+    ViewData["Title"] = "Danh sách Archer";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<div class="row mb-3">
+  <div class="col-md-6">
+    @using (Html.BeginForm("Index","Archers",FormMethod.Get))
+    {
+      <div class="input-group">
+        <input type="text" name="searchTerm" value="@Model.SearchTerm"
+               class="form-control" placeholder="Tìm tên hoặc họ..." />
+        <button class="btn btn-primary" type="submit">
+          <i class="ri-search-line"></i> Tìm
+        </button>
+      </div>
+    }
+  </div>
+  <div class="col-md-6 text-end">
+    <a asp-action="Create" class="btn btn-success">
+      <i class="ri-add-circle-line"></i> Thêm Archer
+    </a>
+  </div>
+</div>
+
+<table class="table table-striped table-hover">
+  <thead class="table-dark">
+    <tr>
+      <th>ID</th><th>Họ</th><th>Tên</th><th>Giới tính</th>
+      <th>Ngày sinh</th><th>Equipment</th><th>Active</th><th>Thao tác</th>
+    </tr>
+  </thead>
+  <tbody>
+  @foreach(var a in Model.Archers)
+  {
+    <tr>
+      <td>@a.ArcherID</td>
+      <td>@a.LastName</td>
+      <td>@a.FirstName</td>
+      <td>@a.Gender</td>
+      <td>@a.DOB.ToString("dd/MM/yyyy")</td>
+      <td>@a.DefaultEquipment?.EquipmentName</td>
+      <td>
+        @if(a.IsActive)
+        { <span class="badge bg-success">Yes</span> }
+        else
+        { <span class="badge bg-danger">No</span> }
+      </td>
+      <td>
+        <a asp-action="Details" asp-route-id="@a.ArcherID"
+           class="btn btn-sm btn-info me-1">Details</a>
+        <a asp-action="Edit" asp-route-id="@a.ArcherID"
+           class="btn btn-sm btn-warning me-1">Edit</a>
+        <a asp-action="Delete" asp-route-id="@a.ArcherID"
+           class="btn btn-sm btn-danger">Delete</a>
+      </td>
+    </tr>
+  }
+  </tbody>
+</table>
+
+<nav>
+  <ul class="pagination justify-content-center">
+    <li class="page-item @(Model.HasPreviousPage? "" : "disabled")">
+      <a class="page-link" asp-action="Index"
+         asp-route-page="@(Model.PageNumber-1)"
+         asp-route-searchTerm="@Model.SearchTerm">
+        « Trước
+      </a>
+    </li>
+
+    @for(int i=1; i<=Model.TotalPages; i++)
+    {
+      <li class="page-item @(i==Model.PageNumber? "active": "")">
+        <a class="page-link" asp-action="Index"
+           asp-route-page="@i"
+           asp-route-searchTerm="@Model.SearchTerm">
+           @i
+        </a>
+      </li>
+    }
+
+    <li class="page-item @(Model.HasNextPage? "" : "disabled")">
+      <a class="page-link" asp-action="Index"
+         asp-route-page="@(Model.PageNumber+1)"
+         asp-route-searchTerm="@Model.SearchTerm">
+        Tiếp »
+      </a>
+    </li>
+  </ul>
+</nav>

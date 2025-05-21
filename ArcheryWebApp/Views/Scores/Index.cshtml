@@ -1,0 +1,36 @@
+@model IEnumerable<ArcheryWebApp.Models.Score>
+@{
+    ViewData["Title"] = "My Scores";
+}
+<form method="get" class="row g-2 mb-3">
+    <div class="col-auto">
+        <select name="roundId" class="form-select" asp-items="ViewBag.Rounds">
+            <option value="0">All Rounds</option>
+        </select>
+    </div>
+    <div class="col-auto">
+        <input type="date" name="from" class="form-control" />
+    </div>
+    <div class="col-auto">
+        <input type="date" name="to" class="form-control" />
+    </div>
+    <div class="col-auto">
+        <button class="btn btn-primary">Filter</button>
+    </div>
+</form>
+
+<table class="table table-striped">
+    <thead>
+    <tr><th>Date</th><th>Round</th><th>Score</th></tr>
+    </thead>
+    <tbody>
+    @foreach(var s in Model)
+    {
+        <tr>
+            <td>@s.DateShot.ToShortDateString()</td>
+            <td>@s.Round.RoundName</td>
+            <td>@s.TotalScore</td>
+        </tr>
+    }
+    </tbody>
+</table>

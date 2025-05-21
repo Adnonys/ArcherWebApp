@@ -1,0 +1,95 @@
+@model ArcheryWebApp.ViewModels.ArcherCreateVm
+@{
+    ViewData["Title"] = "Thêm Archer Mới";
+}
+
+<h1 class="mb-4">@ViewData["Title"]</h1>
+
+<div class="card">
+    <div class="card-body">
+        <form asp-controller="Archers" asp-action="Create" method="post" class="row g-3 needs-validation" novalidate>
+            @Html.AntiForgeryToken()
+            <div asp-validation-summary="All" class="text-danger mb-3"></div>
+
+            <div class="col-md-6">
+                <label asp-for="LastName" class="form-label">Họ</label>
+                <input asp-for="LastName" class="form-control" required />
+                <div class="invalid-feedback">Bắt buộc nhập Họ</div>
+            </div>
+
+            <div class="col-md-6">
+                <label asp-for="FirstName" class="form-label">Tên</label>
+                <input asp-for="FirstName" class="form-control" required />
+                <div class="invalid-feedback">Bắt buộc nhập Tên</div>
+            </div>
+
+            <div class="col-md-4">
+                <label asp-for="Gender" class="form-label">Giới tính</label>
+                <select asp-for="Gender" class="form-select" required>
+                    <option value="">-- Chọn --</option>
+                    <option>Male</option>
+                    <option>Female</option>
+                </select>
+                <div class="invalid-feedback">Bắt buộc chọn Giới tính</div>
+            </div>
+
+            <div class="col-md-4">
+                <label asp-for="DOB" class="form-label">Ngày sinh</label>
+                <input asp-for="DOB" type="date" class="form-control" required />
+                <div class="invalid-feedback">Bắt buộc nhập Ngày sinh</div>
+            </div>
+
+            <div class="col-md-4">
+                <label asp-for="ClassID" class="form-label">Lớp</label>
+                <select asp-for="ClassID" asp-items="ViewBag.Classes" class="form-select" required>
+                    <option value="">-- Chọn lớp --</option>
+                </select>
+                <div class="invalid-feedback">Bắt buộc chọn Lớp</div>
+            </div>
+
+            <div class="col-md-6">
+                <label asp-for="DefaultDivisionID" class="form-label">Division</label>
+                <select asp-for="DefaultDivisionID" asp-items="ViewBag.Divisions" class="form-select" required>
+                    <option value="">-- Chọn division --</option>
+                </select>
+                <div class="invalid-feedback">Bắt buộc chọn Division</div>
+            </div>
+
+            <div class="col-md-6">
+                <label asp-for="DefaultEquipmentID" class="form-label">Equipment</label>
+                <select asp-for="DefaultEquipmentID" asp-items="ViewBag.Equipments" class="form-select" required>
+                    <option value="">-- Chọn equipment --</option>
+                </select>
+                <div class="invalid-feedback">Bắt buộc chọn Equipment</div>
+            </div>
+
+            <div class="col-12 text-end mt-4">
+                <button type="submit" class="btn btn-primary">
+                    <i class="ri-save-line"></i> Lưu
+                </button>
+                <a asp-action="Index" class="btn btn-secondary">
+                    <i class="ri-close-circle-line"></i> Hủy
+                </a>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        // Kích hoạt Bootstrap validation
+        (function () {
+            'use strict';
+            var forms = document.querySelectorAll('.needs-validation');
+            Array.prototype.slice.call(forms).forEach(function (form) {
+                form.addEventListener('submit', function (e) {
+                    if (!form.checkValidity()) {
+                        e.preventDefault();
+                        e.stopPropagation();
+                    }
+                    form.classList.add('was-validated');
+                }, false);
+            });
+        })();
+    </script>
+}

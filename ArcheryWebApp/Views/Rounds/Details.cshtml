@@ -1,0 +1,20 @@
+@model IEnumerable<ArcheryWebApp.Models.Range>
+@{
+    ViewData["Title"] = "Round Details";
+}
+<h2>@ViewBag.RoundName</h2>
+<table class="table">
+    <thead>
+    <tr><th>Distance (m)</th><th>Ends</th><th>Arrows/End</th></tr>
+    </thead>
+    <tbody>
+    @foreach(var r in Model)
+    {
+        <tr>
+            <td>@r.Distance</td>
+            <td>@r.NumberOfEnds</td>
+            <td>@r.ArrowsPerEnd</td>
+        </tr>
+    }
+    </tbody>
+</table>
