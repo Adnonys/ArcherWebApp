@@ -11,13 +11,13 @@
             @Html.AntiForgeryToken()
             <div asp-validation-summary="All" class="text-danger mb-3"></div>
 
-            <div class="col-md-6">
+            <div class="col-md-4">
                 <label asp-for="LastName" class="form-label">Họ</label>
                 <input asp-for="LastName" class="form-control" required />
                 <div class="invalid-feedback">Bắt buộc nhập Họ</div>
             </div>
 
-            <div class="col-md-6">
+            <div class="col-md-4">
                 <label asp-for="FirstName" class="form-label">Tên</label>
                 <input asp-for="FirstName" class="form-control" required />
                 <div class="invalid-feedback">Bắt buộc nhập Tên</div>

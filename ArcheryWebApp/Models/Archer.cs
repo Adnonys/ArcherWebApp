@@ -4,9 +4,11 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace ArcheryWebApp.Models
 {
-    [Table("ArcherTable")]
+    [Table("ArcherTable1")]
     public class Archer
     {
+        [Key]
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int ArcherID { get; set; }
         public string FirstName { get; set; }
         public string LastName  { get; set; }

@@ -1,0 +1,49 @@
+@model IEnumerable<ArcheryWebApp.Models.Round>
+@{
+    ViewData["Title"] = "Danh sách Round";
+}
+
+<h1 class="mb-4">@ViewData["Title"]</h1>
+
+<div class="card">
+    <div class="card-body">
+        <div class="table-responsive">
+            <table class="table table-striped table-hover">
+                <thead class="table-dark">
+                <tr>
+                    <th>ID</th>
+                    <th>Tên Round</th>
+                    <th>Tổng số mũi tên</th>
+                    <th>Loại</th>
+                    <th>Thao tác</th>
+                </tr>
+                </thead>
+                <tbody>
+                @foreach (var round in Model)
+                {
+                    <tr>
+                        <td>@round.RoundID</td>
+                        <td>@round.RoundName</td>
+                        <td>@round.TotalArrows</td>
+                        <td>
+                            @if (round.IsOfficial)
+                            {
+                                <span class="badge bg-success">Chính thức</span>
+                            }
+                            else
+                            {
+                                <span class="badge bg-secondary">Không chính thức</span>
+                            }
+                        </td>
+                        <td>
+                            <a asp-action="Details" asp-route-id="@round.RoundID" class="btn btn-sm btn-info">
+                                <i class="ri-information-line"></i> Chi tiết
+                            </a>
+                        </td>
+                    </tr>
+                }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

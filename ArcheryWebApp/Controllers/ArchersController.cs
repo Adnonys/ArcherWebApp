@@ -87,6 +87,7 @@ namespace ArcheryWebApp.Controllers
 
             var archer = new Archer
             {
+                // Không cần gán ArcherID, sẽ được tự động sinh
                 FirstName = vm.FirstName,
                 LastName = vm.LastName,
                 Gender = vm.Gender,
@@ -97,10 +98,11 @@ namespace ArcheryWebApp.Controllers
                 IsActive = true
             };
 
-            _db.ArcherTable.Add(archer);
+            _db.ArcherTable.Add(archer);  // Vẫn giữ tên DbSet là ArcherTable
             await _db.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }
+
 
         #endregion
 

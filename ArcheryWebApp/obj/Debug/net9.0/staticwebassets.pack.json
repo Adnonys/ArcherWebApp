@@ -1,299 +1,299 @@
 {
   "Files": [
     {
-      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcheryWebApp\\ArcheryWebApp\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\ArcheryWebApp.bundle.scp.css",
+      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcherWebApp\\ArcheryWebApp\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\ArcheryWebApp.bundle.scp.css",
       "PackagePath": "staticwebassets\\ArcheryWebApp.8ra8s0519c.bundle.scp.css"
     },
     {
-      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcheryWebApp\\ArcheryWebApp\\wwwroot\\css\\assets\\app.min.css",
+      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcherWebApp\\ArcheryWebApp\\wwwroot\\css\\assets\\app.min.css",
       "PackagePath": "staticwebassets\\css\\assets\\app.min.css"
     },
     {
-      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcheryWebApp\\ArcheryWebApp\\wwwroot\\css\\assets\\flatpickr.min.css",
+      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcherWebApp\\ArcheryWebApp\\wwwroot\\css\\assets\\flatpickr.min.css",
       "PackagePath": "staticwebassets\\css\\assets\\flatpickr.min.css"
     },
     {
-      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcheryWebApp\\ArcheryWebApp\\wwwroot\\css\\assets\\icons.min.css",
+      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcherWebApp\\ArcheryWebApp\\wwwroot\\css\\assets\\icons.min.css",
       "PackagePath": "staticwebassets\\css\\assets\\icons.min.css"
     },
     {
-      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcheryWebApp\\ArcheryWebApp\\wwwroot\\css\\assets\\select2.min.css",
+      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcherWebApp\\ArcheryWebApp\\wwwroot\\css\\assets\\select2.min.css",
       "PackagePath": "staticwebassets\\css\\assets\\select2.min.css"
     },
     {
-      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcheryWebApp\\ArcheryWebApp\\wwwroot\\css\\multiple-media\\lightbox-plus-jquery.min.js",
+      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcherWebApp\\ArcheryWebApp\\wwwroot\\css\\multiple-media\\lightbox-plus-jquery.min.js",
       "PackagePath": "staticwebassets\\css\\multiple-media\\lightbox-plus-jquery.min.js"
     },
     {
-      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcheryWebApp\\ArcheryWebApp\\wwwroot\\css\\multiple-media\\lightbox.min.css",
+      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcherWebApp\\ArcheryWebApp\\wwwroot\\css\\multiple-media\\lightbox.min.css",
       "PackagePath": "staticwebassets\\css\\multiple-media\\lightbox.min.css"
     },
     {
-      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcheryWebApp\\ArcheryWebApp\\wwwroot\\css\\multiple-media\\video-js.css",
+      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcherWebApp\\ArcheryWebApp\\wwwroot\\css\\multiple-media\\video-js.css",
       "PackagePath": "staticwebassets\\css\\multiple-media\\video-js.css"
     },
     {
-      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcheryWebApp\\ArcheryWebApp\\wwwroot\\css\\multiple-media\\video.min.js",
+      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcherWebApp\\ArcheryWebApp\\wwwroot\\css\\multiple-media\\video.min.js",
       "PackagePath": "staticwebassets\\css\\multiple-media\\video.min.js"
     },
     {
-      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcheryWebApp\\ArcheryWebApp\\wwwroot\\css\\site.css",
+      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcherWebApp\\ArcheryWebApp\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcheryWebApp\\ArcheryWebApp\\wwwroot\\css\\site_v2.css",
+      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcherWebApp\\ArcheryWebApp\\wwwroot\\css\\site_v2.css",
       "PackagePath": "staticwebassets\\css\\site_v2.css"
     },
     {
-      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcheryWebApp\\ArcheryWebApp\\wwwroot\\favicon.ico",
+      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcherWebApp\\ArcheryWebApp\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcheryWebApp\\ArcheryWebApp\\wwwroot\\js\\assets\\js\\config.js",
+      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcherWebApp\\ArcheryWebApp\\wwwroot\\js\\assets\\js\\config.js",
       "PackagePath": "staticwebassets\\js\\assets\\js\\config.js"
     },
     {
-      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcheryWebApp\\ArcheryWebApp\\wwwroot\\js\\site.js",
+      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcherWebApp\\ArcheryWebApp\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcheryWebApp\\ArcheryWebApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcherWebApp\\ArcheryWebApp\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcheryWebApp\\ArcheryWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcherWebApp\\ArcheryWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcheryWebApp\\ArcheryWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcherWebApp\\ArcheryWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcheryWebApp\\ArcheryWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcherWebApp\\ArcheryWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcheryWebApp\\ArcheryWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcherWebApp\\ArcheryWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcheryWebApp\\ArcheryWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcherWebApp\\ArcheryWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcheryWebApp\\ArcheryWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcherWebApp\\ArcheryWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcheryWebApp\\ArcheryWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcherWebApp\\ArcheryWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcheryWebApp\\ArcheryWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcherWebApp\\ArcheryWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcheryWebApp\\ArcheryWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcherWebApp\\ArcheryWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcheryWebApp\\ArcheryWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcherWebApp\\ArcheryWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcheryWebApp\\ArcheryWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcherWebApp\\ArcheryWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcheryWebApp\\ArcheryWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcherWebApp\\ArcheryWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcheryWebApp\\ArcheryWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcherWebApp\\ArcheryWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcheryWebApp\\ArcheryWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcherWebApp\\ArcheryWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcheryWebApp\\ArcheryWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcherWebApp\\ArcheryWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcheryWebApp\\ArcheryWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcherWebApp\\ArcheryWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcheryWebApp\\ArcheryWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcherWebApp\\ArcheryWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcheryWebApp\\ArcheryWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcherWebApp\\ArcheryWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcheryWebApp\\ArcheryWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcherWebApp\\ArcheryWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcheryWebApp\\ArcheryWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcherWebApp\\ArcheryWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcheryWebApp\\ArcheryWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcherWebApp\\ArcheryWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcheryWebApp\\ArcheryWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcherWebApp\\ArcheryWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcheryWebApp\\ArcheryWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcherWebApp\\ArcheryWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcheryWebApp\\ArcheryWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcherWebApp\\ArcheryWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcheryWebApp\\ArcheryWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcherWebApp\\ArcheryWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcheryWebApp\\ArcheryWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcherWebApp\\ArcheryWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcheryWebApp\\ArcheryWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcherWebApp\\ArcheryWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcheryWebApp\\ArcheryWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcherWebApp\\ArcheryWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcheryWebApp\\ArcheryWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcherWebApp\\ArcheryWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcheryWebApp\\ArcheryWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcherWebApp\\ArcheryWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcheryWebApp\\ArcheryWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcherWebApp\\ArcheryWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcheryWebApp\\ArcheryWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcherWebApp\\ArcheryWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcheryWebApp\\ArcheryWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcherWebApp\\ArcheryWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcheryWebApp\\ArcheryWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcherWebApp\\ArcheryWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcheryWebApp\\ArcheryWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcherWebApp\\ArcheryWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcheryWebApp\\ArcheryWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcherWebApp\\ArcheryWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcheryWebApp\\ArcheryWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcherWebApp\\ArcheryWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcheryWebApp\\ArcheryWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcherWebApp\\ArcheryWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcheryWebApp\\ArcheryWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcherWebApp\\ArcheryWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcheryWebApp\\ArcheryWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcherWebApp\\ArcheryWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcheryWebApp\\ArcheryWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcherWebApp\\ArcheryWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcheryWebApp\\ArcheryWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcherWebApp\\ArcheryWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcheryWebApp\\ArcheryWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcherWebApp\\ArcheryWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcheryWebApp\\ArcheryWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcherWebApp\\ArcheryWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcheryWebApp\\ArcheryWebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcherWebApp\\ArcheryWebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcheryWebApp\\ArcheryWebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcherWebApp\\ArcheryWebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcheryWebApp\\ArcheryWebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcherWebApp\\ArcheryWebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcheryWebApp\\ArcheryWebApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcherWebApp\\ArcheryWebApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcheryWebApp\\ArcheryWebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcherWebApp\\ArcheryWebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcheryWebApp\\ArcheryWebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcherWebApp\\ArcheryWebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcheryWebApp\\ArcheryWebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcherWebApp\\ArcheryWebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcheryWebApp\\ArcheryWebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcherWebApp\\ArcheryWebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcheryWebApp\\ArcheryWebApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcherWebApp\\ArcheryWebApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcheryWebApp\\ArcheryWebApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcherWebApp\\ArcheryWebApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcheryWebApp\\ArcheryWebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcherWebApp\\ArcheryWebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcheryWebApp\\ArcheryWebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcherWebApp\\ArcheryWebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcheryWebApp\\ArcheryWebApp\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcherWebApp\\ArcheryWebApp\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
     },
     {
-      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcheryWebApp\\ArcheryWebApp\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcherWebApp\\ArcheryWebApp\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
     },
     {
-      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcheryWebApp\\ArcheryWebApp\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "Id": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcherWebApp\\ArcheryWebApp\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
     },
     {

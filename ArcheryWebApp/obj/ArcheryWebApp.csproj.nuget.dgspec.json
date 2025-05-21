@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcheryWebApp\\ArcheryWebApp\\ArcheryWebApp.csproj": {}
+    "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcherWebApp\\ArcheryWebApp\\ArcheryWebApp.csproj": {}
   },
   "projects": {
-    "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcheryWebApp\\ArcheryWebApp\\ArcheryWebApp.csproj": {
+    "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcherWebApp\\ArcheryWebApp\\ArcheryWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcheryWebApp\\ArcheryWebApp\\ArcheryWebApp.csproj",
+        "projectUniqueName": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcherWebApp\\ArcheryWebApp\\ArcheryWebApp.csproj",
         "projectName": "ArcheryWebApp",
-        "projectPath": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcheryWebApp\\ArcheryWebApp\\ArcheryWebApp.csproj",
+        "projectPath": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcherWebApp\\ArcheryWebApp\\ArcheryWebApp.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcheryWebApp\\ArcheryWebApp\\obj\\",
+        "outputPath": "E:\\Swinburne\\Semester 1 - 2025\\COS20031 - Database Design Project\\ArcherWebApp\\ArcheryWebApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",

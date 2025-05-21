@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using ArcheryWebApp.Models;
+using Range = ArcheryWebApp.Models.Range;
 
 namespace ArcheryWebApp.Data
 {
@@ -16,6 +17,7 @@ namespace ArcheryWebApp.Data
         public DbSet<Archer> ArcherTable { get; set; }
         public DbSet<Class>    ClassTable    { get; set; }
         public DbSet<Division> DivisionTable { get; set; }
+        public DbSet<Range> Ranges { get; set; }
 
     }
 }

@@ -48,10 +48,10 @@
 <nav class="navbar navbar-expand-lg navbar-light bg-light mb-4">
     <a class="navbar-brand" href="/">ArcheryApp</a>
     <div class="navbar-nav">
-        <a class="nav-link" href="/">My Scores</a>
-        <a class="nav-link" href="/ScoreStagings/Create">Record Practice</a>
-        <a class="nav-link" href="/Rounds/Details/1">Round Details</a>
         <a class="nav-link" href="/Archers/Index">Archers</a>
+        <a class="nav-link" asp-controller="Rounds" asp-action="Index">
+            <i class="ri-target-line"></i> Rounds
+        </a>
     </div>
 </nav>
 <main>

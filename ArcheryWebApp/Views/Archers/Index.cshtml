@@ -55,6 +55,9 @@
            class="btn btn-sm btn-warning me-1">Edit</a>
         <a asp-action="Delete" asp-route-id="@a.ArcherID"
            class="btn btn-sm btn-danger">Delete</a>
+        <a asp-controller="Scores" asp-action="Index" asp-route-archerId="@a.ArcherID" class="btn btn-sm btn-primary">
+          <i class="ri-bar-chart-line"></i> Score
+        </a>
       </td>
     </tr>
   }
